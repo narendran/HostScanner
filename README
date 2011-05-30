@@ -1,0 +1,7 @@
+ABOUT THE PROJECT:
+HostScanner is a Console based Network Scanner. It was done as a part of the Umit Summer of Code Project 2011, while I was creating a plugin for the Umit Network Scanner. HostScanner lists all the hosts on the same LAN as the host running the scanner. Its faster than other scanners as it runs on 300 concurrent threads.
+
+
+HOW TO USE:
+python HostScanner.py 
+
